@@ -70,7 +70,7 @@ public class S3Sample {
         String key = "MyObjectKey";
 
         System.out.println("===========================================");
-        System.out.println("Getting Started with Amazon S3");
+        System.out.println("Getting Started with Amazon S3 Jda Practice");
         System.out.println("===========================================\n");
 
         try {
